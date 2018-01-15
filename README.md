@@ -1,4 +1,4 @@
 First commit.
-Hotfix applied.
+Hotfix fixed properly.
 Feature edit.
 Feature edit again.

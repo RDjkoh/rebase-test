@@ -1,2 +1,2 @@
 First commit.
-Hotfix applied.
+Hotfix fixed properly.
